@@ -56,24 +56,24 @@ To run the project, execute the following command:
 
 - GitHub: [@shyusu4](https://github.com/shyusu4)
 - Twitter: [@shyusu4](https://twitter.com/shyusu4)
-- LinkedIn: [Shakhrizoda Yusupova](https://www.linkedin.com/in/shyusu4/)
+- LinkedIn: [@Shakhrizoda Yusupova](https://www.linkedin.com/in/shyusu4/)
 
 👤 Farida Hamid
 
 - GitHub: [@Farida-Hamid](https://github.com/Farida-Hamid)
-- LinkedIn: [Farida Hamid](https://linkedin.com/in/farida-hamid)
+- LinkedIn: [@Farida Hamid](https://linkedin.com/in/farida-hamid)
 
 👤 Tarike Bouari
 
 - GitHub: [@tarikbouari](https://github.com/tarikbouari)
 - Twitter: [@tarikbouari](https://twitter.com/tarikbouari)
-- LinkedIn: [Tarike Bouari](https://www.linkedin.com/in/tarik-bouari-44b7191a6/)
+- LinkedIn: [@Tarike Bouari](https://www.linkedin.com/in/tarik-bouari-44b7191a6/)
 
 👤 Abigiya Tadesse
 
 - GitHub: [@AbigiyaTY](https://github.com/AbigiyaTY)
 - Twitter: [@AbigiyaTY](https://twitter.com/AbigiyaTY)
-- LinkedIn: [AbigiyaTY](https://www.linkedin.com/in/AbigiyaTY)
+- LinkedIn: [@AbigiyaTY](https://www.linkedin.com/in/AbigiyaTY)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
